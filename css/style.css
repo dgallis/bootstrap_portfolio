@@ -1,0 +1,61 @@
+.navbar-header {
+  font-family: 'Lobster', cursive;
+  
+}
+.navbar {
+  padding-bottom: 5px;
+  padding-top: 5px;
+  opacity: .95;
+  border: none;
+  background: #485563;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #29323c,  #485563);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #29323c, #485563);     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+,      Safari 7+ */
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav li a {
+    color: white;
+    font-size: 25px;
+}
+.home-callout {
+ background: #485563;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  color: white;
+  height: 100%;
+  margin-top: -20px;
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+
+.about-callout {
+  background: #0099ff;
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.portfolio {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.info-callout {
+  padding-top: 20px;
+  font-size: 20px;
+}
+.container-fluid {
+  font-family: 'Open Sans';
+}
+.portfolio {
+  background: #485563;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.img-thumbnail:hover {
+  opacity: .5;
+}
+.contact-callout {
+  
+  
